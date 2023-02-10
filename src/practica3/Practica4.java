@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author jimmycc
+ * @author jimmy, uriel gonzalez
  */
 public class Practica4 {
 
