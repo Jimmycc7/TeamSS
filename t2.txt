@@ -1,0 +1,10 @@
+
+inta=1
+;
+intb=2
+;
+intsuma
+;
+suma=a+b
+;
+4

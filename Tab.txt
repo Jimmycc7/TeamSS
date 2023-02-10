@@ -1,0 +1,12 @@
+palab rers
+int
+String
+void
+char
+
+signo
+;
+
+operadoes
+-
++
