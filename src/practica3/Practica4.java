@@ -23,7 +23,7 @@ public class Practica4 {
      */
     public static void main(String[] args) throws FileNotFoundException, IOException {
         
-        
+        //hello chinga tu madre uri 
                 
             String contenido, cone;
             String cont[],conte[];
